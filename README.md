@@ -15,3 +15,4 @@
 [![Linkedin](https://img.shields.io/badge/-Yigittasdemir-0077B5?style=flate&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yi%C4%9Fit-ta%C5%9Fdemir-31653a226/)
 [![İnstagram](https://img.shields.io/badge/-yigittasdemiirr-DD2A7B?style=flate&logo=instagram&logoColor=white)](https://instagram.com/yigittasdemiirr)
 [![Twitter](https://img.shields.io/badge/-Yigittasdemiir-08a0e9?style=flate&logo=twitter&logoColor=white)](https://twitter.com/Yigittasdemiir)
+[![Mail](https://img.shields.io/badge/-yigittasdemir350@gmail.com-e62117?style=flate&logo=Gmail&logoColor=white)](mailto:yigittasdemir350@gmail.com)
