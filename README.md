@@ -1,4 +1,4 @@
-<h1>Hello<span>&#128075;&#127995;</span></h1>
-<p>Active in HTML, CSS, JavaScript; modern libraries and framework (React.js)</p>
+<h1>Hello &#128075;&#127995;</h1>
+<p>I love web development and learning new things. &#129299;</p>
 
 ![](https://komarev.com/ghpvc/?username=yigittasdemir&color=blueviolet)
