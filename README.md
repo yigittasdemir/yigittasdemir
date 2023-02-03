@@ -7,6 +7,7 @@
 ![REACT](https://img.shields.io/badge/-React-141a20?style=flat&logo=react&logoColor=61DAFB)&nbsp;
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-141a20?style=flat&logo=typescript&logoColor=79,59,118)&nbsp;
 ![REDUX](https://img.shields.io/badge/Redux-141a20?style=flat&logo=redux&logoColor=72,59,118)&nbsp;
+![FIREBASE](https://img.shields.io/badge/Firebase-141a20?style=flat&logo=firebase&logoColor=79,59,118)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141a20?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141a20?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![TAILWIND](https://img.shields.io/badge/-Tailwind-141a20?style=flat&logo=Tailwind-css&logoColor=193,109,153)&nbsp;
